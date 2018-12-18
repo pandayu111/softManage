@@ -1,2 +1,2 @@
-# com.bhdx.wy.softManage
+# bhdx.softManage
 毕业设计
